@@ -5,5 +5,5 @@ public enum TipoMarca {
     CHEVROLET,
     RENAULT,
     TOYOTA,
-    NISSAM,
+    NISSAN,
 }
