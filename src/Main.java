@@ -47,8 +47,31 @@ public class Main {
                 + "3. Salir \n";
 
         int opcion = Integer.parseInt(JOptionPane.showInputDialog(mensaje));
+        switch (opcion){
+
+            case 1:
+                break;
+            case 2:
+                break;
+            case 3:
+                break;
+
+            default:
+        }
+    }
+
+    private static void ventaVehiculo(){
+        if (vehiculos.isEmpty()){
+            JOptionPane.showMessageDialog(null,"Error; no hay vehiculos en la lista","VEHICULOS NO DISPONIBLES",JOptionPane.ERROR_MESSAGE);
+
+
+        }else{
+
+        }
 
     }
 
+    private static void comprarVehiculo(){
 
+    }
 }
