@@ -2,9 +2,55 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cff93cbe-a2a4-4f41-ac98-529694456d10" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Arrays/src/ArrayAgenda.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Arrays/src/Arraynombres.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Arrays/src/nombres.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ClaseUno/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ClaseUno/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ClaseUno/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ClaseUno/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ClaseUno/ClaseUno.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ClaseUno/out/production/ClaseUno/Circulo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ClaseUno/out/production/ClaseUno/Cuadrado.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ClaseUno/out/production/ClaseUno/HelloWorld.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ClaseUno/out/production/ClaseUno/Suma.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ClaseUno/out/production/ClaseUno/Trapecio.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ClaseUno/out/production/ClaseUno/Triangulo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ClaseUno/src/AreaCirculo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ClaseUno/src/AreaCuadrado.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ClaseUno/src/AreaTrapecio.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ClaseUno/src/AreaTriangulo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ClaseUno/src/HelloWorld.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ClaseUno/src/Suma.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Convertidor" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HorasLaborales/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HorasLaborales/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HorasLaborales/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HorasLaborales/HorasLaborales.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HorasLaborales/out/production/HorasLaborales/CodigoLaboral.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HorasLaborales/src/CodigoLaboral.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Taller/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Taller/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Taller/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Taller/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Taller/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Taller/.idea/project-template.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Taller/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Taller/Taller.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Taller/out/production/Taller/AhorroIE.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Taller/out/production/Taller/ConvertirKilometros.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Taller/out/production/Taller/DescuentoSueldo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Taller/out/production/Taller/ExpresionesAlgebraicas.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Taller/out/production/Taller/IVA.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Taller/out/production/Taller/MayorMenor.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Taller/src.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Taller/src/AhorroIE.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Taller/src/ConvertirKilometros.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Taller/src/DescuentoSueldo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Taller/src/ExpresionesAlgebraicas.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Taller/src/IVA.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Taller/src/MayorMenor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../otroEjemplo" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -20,23 +66,24 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2GoGx0YN0mstHoMvkhwDFAajmxq" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "C:/Users/Isabella/IdeaProjects/Concesionario"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Isabella/IdeaProjects/Concesionario&quot;
   }
-}]]></component>
+}</component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
