@@ -7,7 +7,7 @@ public class Publico extends Vehiculo{
     private int numeroPlanilla;
     private TipoPublico tipoPublico;
 
-    public Publico(TipoMarca marca, int modelo, String placa, String color, int precio, int numeroPlanilla, TipoPublico tipoPublico) {
+    public Publico(TipoMarca marca, int modelo, String placa, String color, int precio) {
         super(marca, modelo, placa, color, precio);
         this.numeroPlanilla = numeroPlanilla;
         this.tipoPublico = tipoPublico;
