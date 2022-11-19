@@ -75,6 +75,13 @@ public class Main {
                     JOptionPane.ERROR_MESSAGE);
             menuPrincipal();
         } else {
+            if (preguntaTipoVehiculo()){
+                int vehi = mostrarVehiculosParticulares();
+                vehiculos.remove(vehi);
+                mostrarTodosLosVehiculos();
+            } else {
+
+            }
 
         }
     }
@@ -168,5 +175,28 @@ public class Main {
                         "ERROR", JOptionPane.ERROR_MESSAGE);
         }
         return miMarquita;
+    }
+    private static void mostrarTodosLosVehiculos(){
+        String mensaje = "";
+        for (Vehiculo vehiculo: vehiculos){
+            mensaje = mensaje + vehiculo.getColor()+"\n"+ vehiculo.getPlaca() +"\n"+ vehiculo.getMarca() +"\n"+ vehiculo.getModelo()+"\n";
+        }
+        JOptionPane.showMessageDialog(null,mensaje);
+
+    }
+
+    private static int mostrarVehiculosParticulares(){
+        int indice = 0;
+
+        String mensaje = "";
+        for (int i = 0; i < vehiculos.size(); i++){
+
+            if (vehiculos.get(i)instanceof Particular){
+
+                mensaje= mensaje + vehiculos.get(i).getModelo()+"\n"+ vehiculos.get(i).getColor() +"\n"+ vehiculos.get(i).getPlaca() +"\n"+ vehiculos.get(i).getPrecio()+"\n";
+            }
+        }
+        indice = Integer.parseInt(JOptionPane.showInputDialog(mensaje));
+        return indice;
     }
 }
